@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Project
-permalink: /homepage/resume/project
+nav_order: 2
+permalink: /project/
 ---
 
 # 🎂 Cake Factory Web App

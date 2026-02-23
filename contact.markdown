@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Contact
-permalink: /homepage/resume/project/contact
+nav_order: 4
+permalink: /contact/
 ---
 
 Let’s connect!

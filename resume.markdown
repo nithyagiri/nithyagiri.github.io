@@ -1,21 +1,20 @@
 ---
-layout: page
+layout: default
 title: Resume
-permalink: /homepage/resume
+nav_order: 3
+permalink: /resume/
 ---
 ## 📄 My Resume
 
-<p align="center">
-  <a href="/assets/Nithya_Giri_Resume.pdf" target="_blank">
-    <img src="/assets/resume-preview.jng" 
+<p>
+    <img src="/assets/resume-preview.png" 
          alt="Resume preview" 
          width="600">
-  </a>
 </p>
 
 <p align="center">
   <a href="/assets/Nithya_Giri_Resume.pdf" target="_blank">
-    👉 Download Resume (PDF)
+ 👉 Download Resume (PDF)
   </a>
 </p>
 

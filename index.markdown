@@ -1,8 +1,7 @@
 ---
 layout: default
 title: About
-nav_order: 1
-permalink: 
+nav_exclude: true 
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -38,4 +37,5 @@ Collaborate using Git and GitHub
 ##  What I’m Looking For
 I’m seeking an **entry-level software developer or frontend developer role** where I can contribute to meaningful projects, learn from experienced teammates, and grow as a developer.
 
-👉 Check out my **Projects**, **Resume**, and **Contact** sections to learn more!
+<p markdown="0">👉 Check out my <a href="/project/"><strong>Projects</strong></a> | <a href="/resume/"><strong>Resume</strong></a> | <a href="/contact/"><strong>Contact</strong></a> sections to learn more!
+</p>
